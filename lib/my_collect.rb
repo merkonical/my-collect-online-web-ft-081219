@@ -1,3 +1,4 @@
 def my_collect
-  i
+  i = 0 
+  while 
 end 
